@@ -39,7 +39,7 @@ change from
 into 
 
 ******************************************************
-<VirtualHost *:80> 
+<VirtualHost *:80>
     DocumentRoot "C:/laragon/www/your project/"
     ServerName project.test
     ServerAlias *.project.test
@@ -52,4 +52,4 @@ into
 
 
  And Viola! You will run your app on localhost with no any damaged link problem.
- Good Luck with your project!!
+ See the real example on www.korntatan.com  Good Luck!!
